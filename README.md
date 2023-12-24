@@ -10,4 +10,4 @@
 |Jouer en solo|Jouer en Multi(Avec Marius)|
 |:---:|:---:|
 |![Image 2 solo](2bis.png)|![Image 2 Multi](2.png)
-|Dans le mode campagne il deux planet sur les quel tu vas pouvoir découvrir les mécanique de jeu, ... <br><br>Les deux autre permet de jouer avec toutes les blocs, Unités, ...| Le bouton Rejoindre une partie permet d'en rejoindre une en multi si mon sever est ouvert il apparetera des la première zone (server locaux)|
+|Dans le mode campagne il deux planet sur les quel tu vas pouvoir découvrir les mécanique de jeu, ... <br><br>Les deux autre permet de jouer avec toutes les blocs, Unités, ...| Le bouton Rejoindre une partie permet d'en rejoindre une en multi si mon sever est ouvert il apparetera dans la première zone (server locaux)|
